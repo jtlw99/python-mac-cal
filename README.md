@@ -1,4 +1,4 @@
-# macOS Calculator App in Python
+# macOS Calculator in Python
 
 This is a simple calculator application designed to mimic the look and functionality of the macOS Calculator. It is built using Python's Tkinter library and provides basic arithmetic operations along with a user-friendly interface.
 
@@ -19,18 +19,15 @@ To run this application, you need:
 
 ## Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/jtlw99/calculator.git
-   cd calculator
-   ```
-
-2. **Run the application:**
+1. **Download the file in Realease**
+2. **Extract it**
+3. **Open a Terminal window in the folder**
+4. **Use this command:**
 
    ```bash
    python3 cal.py
    ```
+5. **Voilà!**
 
 ## Usage
 
@@ -60,5 +57,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspired by the macOS Calculator app design.
 - Special thanks to the Python community for the support and libraries that made this possible.
-
-```
