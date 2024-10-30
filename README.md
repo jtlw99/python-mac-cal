@@ -29,6 +29,8 @@ To run this application, you need:
    ```
 5. **Voilà!**
 
+### Tested on ZorinOS 17 core
+
 ## Usage
 
 - **I suggest using vinceliuice's [WhiteSur GTK theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) to get the traffic light buttons like macOS.**
