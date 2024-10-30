@@ -1,6 +1,6 @@
 # macOS Calculator in Python
 
-This is a simple calculator application designed to mimic the look and functionality of the macOS Calculator. It is built using Python's Tkinter library and provides basic arithmetic operations along with a user-friendly interface.
+This is a simple calculator application designed to mimic the look and functionality of the macOS Calculator. It is built using Python's Tkinter library and provides basic arithmetic operations along with a user-friendly interface. With the help of [WhiteSur GTK theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) for the Traffic light buttons.
 
 ## Features
 
@@ -19,7 +19,7 @@ To run this application, you need:
 
 ## Installation
 
-1. **Download the file in Realease**
+1. **Download the file in [Releases](https://github.com/jtlw99/python-mac-cal/releases)**
 2. **Extract it**
 3. **Open a Terminal window in the folder**
 4. **Use this command:**
@@ -31,6 +31,7 @@ To run this application, you need:
 
 ## Usage
 
+- **I suggest using vinceliuice's [WhiteSur GTK theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) to get the traffic light buttons like macOS.**
 - Launch the application, and you will see the calculator interface.
 - Use the buttons to perform calculations. 
 - You can use the `C` button to clear the input.
